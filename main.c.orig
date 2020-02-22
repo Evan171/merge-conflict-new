@@ -4,11 +4,14 @@ f1(){
 f2(){
 
 }
+<<<<<<< HEAD
 f3(){
-John Nash;
 }
+=======
 security patch(){
 John cena;
 }
 
 
+
+>>>>>>> master
